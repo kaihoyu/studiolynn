@@ -1,8 +1,8 @@
 # studiolynn
 
-Unity Simulation Workshop
-Die Angewandte - IoA Studio Lynn
-Winter 2019
+Unity Simulation Workshop  
+Die Angewandte - IoA Studio Lynn  
+Winter 2019  
 
 ## 01 Agent Patrol
 
