@@ -17,11 +17,17 @@ Change one of the geometries from NavMesh to a moving obstacle. Change the stati
 In this scene, agent should be duplicated to test with crowd behavior.
 
 ### 1.3 Geofencing
+There are two examples of geofencing in the scene 1.3.
 
+Left: Use obstacles as a way to make agents moving along the wall.
+
+Right: Create Nav Mesh map using different kinds of area, then assgin different agents with "Area Mask."
 
 ## 02 Customized Robot
 
 ### 2.1 Example: Folklift
+Download and import the Prefeb "Forklift" in the Unity Scene. Run the forklift with keyboard control.
+https://assetstore.unity.com/packages/3d/vehicles/controllable-forklift-free-80275
 
 ### 2.2 Autonomous Vehicle
 
