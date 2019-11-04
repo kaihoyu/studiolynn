@@ -21,7 +21,9 @@ Create a 3D object, capsule, as an abstracted model of humanoid agent. In the "I
 
 ### 2.1 Example: Folklift
 
-### 2.2 Autonomous Vehicle: Tesla
+### 2.2 Autonomous Vehicle
+
+### 2.3 Vertical Shelves
 
 ## 03 Flow Vignette
 
