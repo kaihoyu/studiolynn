@@ -12,7 +12,9 @@ Create a single plane and few cubes as obstacle geometry, in "static," set geome
 Create a 3D object, capsule, as an abstracted model of humanoid agent. In the "Inspector" panel, click "Add Component" and type in "Nav Mesh Agent," adjust the speed and acceleration to control the movement of agent. Drag and drop *Patrol* script to the inspector of the agent, to apply the patrol behavior. Use cube or sphere as waypoint geometries. 
 
 ### 1.2 Moving Obstacle
-Change one of the geometries from NavMesh to a moving obstacle. Change the static to "Nothing" and add "Nav Mesh Obstacle" for the moving geometry, click the "Carve" to make sure that the obstacle can be recognized by the NavMesh map. Unfortunately the "Nav Mesh Obstacle" will be simlified as primitive shapes, either box or capsule, if you want to apply on a complicated geometry, you will need to add "Nav Mesh Obstacle" on individual Gameobjects and assign movement to the parent layer. For the movement of the geometry, there is a *Rotate* script ready.
+Change one of the geometries from NavMesh to a moving obstacle. Change the static to "Nothing" and add "Nav Mesh Obstacle" for the moving geometry, click the "Carve" to make sure that the obstacle can be recognized by the NavMesh map. Unfortunately the "Nav Mesh Obstacle" will be simplified as primitive shapes, either box or capsule, if you want to apply on a complicated geometry, you will need to add "Nav Mesh Obstacle" on individual Gameobjects and assign movement to the parent layer. For the movement of the geometry, there is a *Rotate* script ready. 
+
+In this scene, agent should be duplicated to test with crowd behavior.
 
 ### 1.3 Geofencing
 
