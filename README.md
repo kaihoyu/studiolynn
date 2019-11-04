@@ -1,12 +1,11 @@
 # studiolynn
-
 Unity Simulation Workshop  
 Die Angewandte - IoA Studio Lynn  
 Winter 2019  
 
 ## 01 Agent Patrol
+Use the NavMesh component in Unity, to produce a certain amount of humanoid agents that can navigate in a designated map (composed by 3D geometries) and avoid obstacles. 
 
-Use NavMesh component to create 
 
 ### 1.1 Static Obstacle
 
@@ -24,5 +23,5 @@ Create a 3D object, capsule, as an abstracted model of humanoid agent. In the "I
 ## 03 Flow Vignette
 
 
-##
+## System
 Unity version: 2019.2.10f1
