@@ -26,6 +26,8 @@ Right: Create Nav Mesh map using different kinds of area, then assgin different 
 ## 02 Customized Robot
 
 ### 2.1 Example: Folklift
+Download and import the Prefeb "Forklift" in the Unity Scene. Run the forklift with keyboard control.
+https://assetstore.unity.com/packages/3d/vehicles/controllable-forklift-free-80275
 
 ### 2.2 Autonomous Vehicle
 
