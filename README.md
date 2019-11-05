@@ -32,7 +32,11 @@ https://assetstore.unity.com/packages/3d/vehicles/controllable-forklift-free-802
 ### 2.2 Autonomous Vehicle
 In the scene 2.2, there are four ways of moving wheel-based agents autonomously without keyborad control. 
 
-Example 01: Tesla
+Example 01: Tesla follows NavMesh Agent(patrol)
+
+Example 02: Tesla follows Target on a path
+See tutorials on Path Creator: https://www.youtube.com/watch?v=saAQNRSYU9k
+Path Creator github: https://github.com/SebLague/Path-Creator
 
 ### 2.3 Vertical Shelves
 
