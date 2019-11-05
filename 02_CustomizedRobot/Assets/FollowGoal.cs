@@ -5,9 +5,9 @@ using UnityEngine;
 public class FollowGoal : MonoBehaviour {
 
 	public Transform goal;
-	float speed = 2.0f;
-	float accuracy = 1.0f;
-	float rotSpeed = 1.0f;
+	public float speed = 2.0f;
+	public float accuracy = 1.0f;
+	public float rotSpeed = 1.0f;
 
 	// Use this for initialization
 	void Start () {
