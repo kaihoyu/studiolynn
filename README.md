@@ -30,12 +30,17 @@ Download and import the Prefeb "Forklift" in the Unity Scene. Run the forklift w
 https://assetstore.unity.com/packages/3d/vehicles/controllable-forklift-free-80275
 
 ### 2.2 Autonomous Vehicle
-In the scene 2.2, there are four ways of moving wheel-based agents autonomously without keyborad control. 
+In the scene 2.2, there are four ways of moving wheel-based agents autonomously without keyborad control. Note for different kinds of agents, the moving principles can be differently applied, you can also develop your own script and logic for autonomous moving.
 
-Example 01: Tesla follows NavMesh Agent(patrol)
+Example 01: Tesla follows NavMesh Agent(patrol)  
+
+The NavMesh Agent is set to a *patrol* script, moving between two points. 
+
 
 Example 02: Tesla follows Target on a path  
+
 Path Creator is an external plug-in that allows you to create a path in Unity, it can either be Bezier path or Vertex path. The path can be 3 dimensional or attached to a 2D plane, you can control the shape of the path just like using control points to control curves in Rhino. It can be open or cloese.  
+
 See tutorials on Path Creator: https://www.youtube.com/watch?v=saAQNRSYU9k  
 Path Creator github: https://github.com/SebLague/Path-Creator  
 
@@ -47,3 +52,4 @@ Path Creator github: https://github.com/SebLague/Path-Creator
 
 ## System
 Unity version: 2019.2.10f1
+Unity Recording Tutorial:https://www.youtube.com/watch?v=VqW-Fg5VafQ 
