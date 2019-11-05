@@ -17,7 +17,7 @@ Change one of the geometries from NavMesh to a moving obstacle. Change the stati
 In this scene, agent should be duplicated to test with crowd behavior.
 
 ### 1.3 Geofencing
-There are two examples of geofencing in the scene 1.3.
+A geo-fence is a virtual perimeter for a real-world geographic area. The concept can be used as a way to divide different flow into zones or areas. There are two examples of geofencing in the scene 1.3.
 
 Left: Use obstacles as a way to make agents moving along the wall.
 
@@ -30,6 +30,9 @@ Download and import the Prefeb "Forklift" in the Unity Scene. Run the forklift w
 https://assetstore.unity.com/packages/3d/vehicles/controllable-forklift-free-80275
 
 ### 2.2 Autonomous Vehicle
+In the scene 2.2, there are four ways of moving wheel-based agents autonomously without keyborad control. 
+
+Example 01: Tesla
 
 ### 2.3 Vertical Shelves
 
