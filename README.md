@@ -52,7 +52,12 @@ Example 04: Person pushing a stroller
 
 The simulation needs to calculate the turning radius of the stroller, which can be recognized as a four-wheel vehicle, so the simulation is just having the stroller following a target, and attach the human (capsule) as the child object.
 
-### 2.3 Vertical Shelves
+### 2.3 Truck
+Scene 2.3 is loaded with the asset *Vehicles for Logistic Center*
+https://assetstore.unity.com/packages/3d/vehicles/land/vehicles-for-logistics-center-73990
+
+
+### 2.4 Vertical Shelves
 
 ## 03 Flow Vignette
 
