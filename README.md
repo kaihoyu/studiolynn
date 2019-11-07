@@ -30,20 +30,38 @@ Download and import the Prefeb "Forklift" in the Unity Scene. Run the forklift w
 https://assetstore.unity.com/packages/3d/vehicles/controllable-forklift-free-80275
 
 ### 2.2 Autonomous Vehicle
-In the scene 2.2, there are four ways of moving wheel-based agents autonomously without keyborad control. 
+In the scene 2.2, there are four ways of moving wheel-based agents autonomously without keyborad control. Note for different kinds of agents, the moving principles can be differently applied, you can also develop your own script and logic for autonomous moving.
 
-Example 01: Tesla follows NavMesh Agent(patrol)
+Example 01: Tesla following NavMesh Agent(patrol)  
 
-Example 02: Tesla follows Target on a path  
+The NavMesh Agent is set to *Patrol* script, moving between two points.   
+
+
+Example 02: Tesla following Target on a path  
+
 Path Creator is an external plug-in that allows you to create a path in Unity, it can either be Bezier path or Vertex path. The path can be 3 dimensional or attached to a 2D plane, you can control the shape of the path just like using control points to control curves in Rhino. It can be open or cloese.  
+
 See tutorials on Path Creator: https://www.youtube.com/watch?v=saAQNRSYU9k  
 Path Creator github: https://github.com/SebLague/Path-Creator  
 
+Example 03: Gita following NavMesh Agent(patrol)
 
-### 2.3 Vertical Shelves
+Gita is using a *Follow Goal* script to follow an agent, as Gita has the freedom in two degrees (non-holonomic system), it can be simulated based on distance/speed calculation, instead of wheel-suspension. 
+
+Example 04: Person pushing a stroller 
+
+The simulation needs to calculate the turning radius of the stroller, which can be recognized as a four-wheel vehicle, so the simulation is just having the stroller following a target, and attach the human (capsule) as the child object.
+
+### 2.3 Truck
+Scene 2.3 is loaded with the asset *Vehicles for Logistic Center*
+https://assetstore.unity.com/packages/3d/vehicles/land/vehicles-for-logistics-center-73990
+
+
+### 2.4 Vertical Shelves
 
 ## 03 Flow Vignette
 
 
 ## System
 Unity version: 2019.2.10f1
+Unity Recording Tutorial:https://www.youtube.com/watch?v=VqW-Fg5VafQ 
