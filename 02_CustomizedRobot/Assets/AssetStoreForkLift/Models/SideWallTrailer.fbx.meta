@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 77c85971dcef10b40b28ab891766bdb9
+timeCreated: 1482421756
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: SideWalTrailer
+    100002: //RootNode
+    100004: SideWalTrailer.001
+    100006: SideWalTrailer.002
+    100008: SideWalTrailer.009
+    100010: trailer_footboard
+    100012: trailerWheel_L3.000
+    100014: trailerWheel_L3.002
+    100016: trailerWheel_L3.003
+    100018: trailerWheel_L3.004
+    100020: trailerWheel_L3.005
+    100022: trailerWheel_L3.006
+    100024: trailerWheel_L1
+    100026: trailerWheel_L2
+    100028: trailerWheel_L3
+    100030: trailerWheel_R1
+    100032: trailerWheel_R2
+    100034: trailerWheel_R3
+    400000: SideWalTrailer
+    400002: //RootNode
+    400004: SideWalTrailer.001
+    400006: SideWalTrailer.002
+    400008: SideWalTrailer.009
+    400010: trailer_footboard
+    400012: trailerWheel_L3.000
+    400014: trailerWheel_L3.002
+    400016: trailerWheel_L3.003
+    400018: trailerWheel_L3.004
+    400020: trailerWheel_L3.005
+    400022: trailerWheel_L3.006
+    400024: trailerWheel_L1
+    400026: trailerWheel_L2
+    400028: trailerWheel_L3
+    400030: trailerWheel_R1
+    400032: trailerWheel_R2
+    400034: trailerWheel_R3
+    2300000: SideWalTrailer
+    2300002: SideWalTrailer.001
+    2300004: SideWalTrailer.002
+    2300006: SideWalTrailer.009
+    2300008: trailer_footboard
+    2300010: trailerWheel_L3.000
+    2300012: trailerWheel_L3.002
+    2300014: trailerWheel_L3.003
+    2300016: trailerWheel_L3.004
+    2300018: trailerWheel_L3.005
+    2300020: trailerWheel_L3.006
+    2300022: trailerWheel_L1
+    2300024: trailerWheel_L2
+    2300026: trailerWheel_L3
+    2300028: trailerWheel_R1
+    2300030: trailerWheel_R2
+    2300032: trailerWheel_R3
+    3300000: SideWalTrailer
+    3300002: SideWalTrailer.001
+    3300004: SideWalTrailer.002
+    3300006: SideWalTrailer.009
+    3300008: trailer_footboard
+    3300010: trailerWheel_L3.000
+    3300012: trailerWheel_L3.002
+    3300014: trailerWheel_L3.003
+    3300016: trailerWheel_L3.004
+    3300018: trailerWheel_L3.005
+    3300020: trailerWheel_L3.006
+    3300022: trailerWheel_L1
+    3300024: trailerWheel_L2
+    3300026: trailerWheel_L3
+    3300028: trailerWheel_R1
+    3300030: trailerWheel_R2
+    3300032: trailerWheel_R3
+    4300000: SideWalTrailer.009
+    4300002: trailerWheel_L3.006
+    4300004: trailerWheel_L3.005
+    4300006: trailerWheel_L3.004
+    4300008: trailerWheel_L3.002
+    4300010: trailerWheel_L3.000
+    4300012: trailerWheel_L3.003
+    4300014: SideWalTrailer.002
+    4300016: SideWalTrailer.001
+    4300018: trailer_footboard
+    4300020: SideWalTrailer
+    4300022: trailerWheel_R1
+    4300024: trailerWheel_R2
+    4300026: trailerWheel_R3
+    4300028: trailerWheel_L3
+    4300030: trailerWheel_L2
+    4300032: trailerWheel_L1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

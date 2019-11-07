@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: a4d1fadfaadd5394c9d8d338257d6a0b
+timeCreated: 1479817375
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: doorTrailer_L
+    100002: doorTrailer_R
+    100004: trailer
+    100006: trailer_footboard
+    100008: trailerWheel__L2
+    100010: trailerWheel_L1
+    100012: trailerWheel_L3
+    100014: trailerWheel_R1
+    100016: trailerWheel_R2
+    100018: trailerWheel_R3
+    100020: Truck
+    100022: //RootNode
+    100024: WheelTruckBL
+    100026: WheelTruckBR
+    100028: WheelTruckFL
+    100030: WheelTruckFR
+    400000: doorTrailer_L
+    400002: doorTrailer_R
+    400004: trailer
+    400006: trailer_footboard
+    400008: trailerWheel__L2
+    400010: trailerWheel_L1
+    400012: trailerWheel_L3
+    400014: trailerWheel_R1
+    400016: trailerWheel_R2
+    400018: trailerWheel_R3
+    400020: Truck
+    400022: //RootNode
+    400024: WheelTruckBL
+    400026: WheelTruckBR
+    400028: WheelTruckFL
+    400030: WheelTruckFR
+    2300000: doorTrailer_L
+    2300002: doorTrailer_R
+    2300004: trailer
+    2300006: trailer_footboard
+    2300008: trailerWheel__L2
+    2300010: trailerWheel_L1
+    2300012: trailerWheel_L3
+    2300014: trailerWheel_R1
+    2300016: trailerWheel_R2
+    2300018: trailerWheel_R3
+    2300020: Truck
+    2300022: WheelTruckBL
+    2300024: WheelTruckBR
+    2300026: WheelTruckFL
+    2300028: WheelTruckFR
+    3300000: doorTrailer_L
+    3300002: doorTrailer_R
+    3300004: trailer
+    3300006: trailer_footboard
+    3300008: trailerWheel__L2
+    3300010: trailerWheel_L1
+    3300012: trailerWheel_L3
+    3300014: trailerWheel_R1
+    3300016: trailerWheel_R2
+    3300018: trailerWheel_R3
+    3300020: Truck
+    3300022: WheelTruckBL
+    3300024: WheelTruckBR
+    3300026: WheelTruckFL
+    3300028: WheelTruckFR
+    4300000: trailer_footboard
+    4300002: doorTrailer_R
+    4300004: trailerWheel_L3
+    4300006: trailerWheel_R3
+    4300008: trailerWheel_R2
+    4300010: trailerWheel__L2
+    4300012: trailerWheel_L1
+    4300014: trailerWheel_R1
+    4300016: WheelTruckBR
+    4300018: WheelTruckBL
+    4300020: WheelTruckFL
+    4300022: WheelTruckFR
+    4300024: doorTrailer_L
+    4300026: trailer
+    4300028: Truck
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

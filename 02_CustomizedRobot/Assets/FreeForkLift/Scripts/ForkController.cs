@@ -15,43 +15,50 @@ public class ForkController : MonoBehaviour {
 
     // Update is called once per frame
     void FixedUpdate () {
-
-        Debug.Log(mastMoveTrue);
-        if(fork.transform.localPosition.y >= maxYmast.y && fork.transform.localPosition.y < maxY.y)
+        if(fork.transform.position.y >= maxYmast.y)
         {
             mastMoveTrue = true;
         }
-        else
-        {
-            mastMoveTrue = false;
-
-        }
-
-        if (fork.transform.localPosition.y <= maxYmast.y)
+        if (fork.transform.position.y <= maxYmast.y)
         {
             mastMoveTrue = false;
         }
-      
+        if (fork.transform.position.y >= maxY.y )
+        {
+            fork.transform.position = new Vector3(fork.transform.position.x, maxY.y, fork.transform.position.z);
+        }
+
+          if (fork.transform.position.y <= minY.y)
+          {
+              fork.transform.position = new Vector3(fork.transform.position.x, minY.y, fork.transform.position.z);
+          }
+        if (mast.transform.position.y >= maxYmast.y)
+        {
+            mast.transform.position = new Vector3(mast.transform.position.x, maxYmast.y, mast.transform.position.z);
+        }
+
+        if (mast.transform.position.y <= minYmast.y)
+        {
+            mast.transform.position = new Vector3(mast.transform.position.x, minYmast.y, mast.transform.position.z);
+        }
+
         if (Input.GetKey(KeyCode.PageUp))
         {
-           //fork.Translate(Vector3.up * speedTranslate * Time.deltaTime);
-            fork.transform.localPosition = Vector3.MoveTowards(fork.transform.localPosition, maxY, speedTranslate * Time.deltaTime);
+           fork.Translate(Vector3.up * speedTranslate * Time.deltaTime);
             if(mastMoveTrue)
             {
-                mast.transform.localPosition = Vector3.MoveTowards(mast.transform.localPosition, maxYmast, speedTranslate * Time.deltaTime);
+                mast.Translate(Vector3.up * speedTranslate * Time.deltaTime);
             }
           
         }
         if (Input.GetKey(KeyCode.PageDown))
         {
-            fork.transform.localPosition = Vector3.MoveTowards(fork.transform.localPosition, minY, speedTranslate * Time.deltaTime);
-
-            if (mastMoveTrue)
+            fork.Translate(-Vector3.up * speedTranslate * Time.deltaTime);
+            if(mastMoveTrue)
             {
-                mast.transform.localPosition = Vector3.MoveTowards(mast.transform.localPosition, minYmast, speedTranslate * Time.deltaTime);
-
+                mast.Translate(-Vector3.up * speedTranslate * Time.deltaTime);
             }
-
+            
         }
 
     }

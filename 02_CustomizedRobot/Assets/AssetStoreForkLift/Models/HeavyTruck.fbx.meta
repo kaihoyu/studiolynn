@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: f8a241eceb001a84aaccffd91eaaec3e
+timeCreated: 1510220557
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HeavyTruck
+    100004: HT_Wheel_BL
+    100006: HT_Wheel_BL1
+    100008: HT_Wheel_BR
+    100010: HT_Wheel_BR1
+    100012: HT_Wheel_FL
+    100014: HT_Wheel_FR
+    100016: HeavyTruck.001
+    100018: HeavyTruck.003
+    100020: HeavyTruck.004
+    400000: //RootNode
+    400002: HeavyTruck
+    400004: HT_Wheel_BL
+    400006: HT_Wheel_BL1
+    400008: HT_Wheel_BR
+    400010: HT_Wheel_BR1
+    400012: HT_Wheel_FL
+    400014: HT_Wheel_FR
+    400016: HeavyTruck.001
+    400018: HeavyTruck.003
+    400020: HeavyTruck.004
+    2300000: //RootNode
+    2300002: HeavyTruck
+    2300004: HT_Wheel_BL
+    2300006: HT_Wheel_BL1
+    2300008: HT_Wheel_BR
+    2300010: HT_Wheel_BR1
+    2300012: HT_Wheel_FL
+    2300014: HT_Wheel_FR
+    2300016: HeavyTruck.001
+    2300018: HeavyTruck.003
+    2300020: HeavyTruck.004
+    3300000: //RootNode
+    3300002: HeavyTruck
+    3300004: HT_Wheel_BL
+    3300006: HT_Wheel_BL1
+    3300008: HT_Wheel_BR
+    3300010: HT_Wheel_BR1
+    3300012: HT_Wheel_FL
+    3300014: HT_Wheel_FR
+    3300016: HeavyTruck.001
+    3300018: HeavyTruck.003
+    3300020: HeavyTruck.004
+    4300000: HeavyTruck
+    4300002: HT_Wheel_FR
+    4300004: HT_Wheel_FL
+    4300006: HT_Wheel_BL
+    4300008: HT_Wheel_BL1
+    4300010: HT_Wheel_BR1
+    4300012: HT_Wheel_BR
+    4300014: HeavyTruck.004
+    4300016: HeavyTruck.003
+    4300018: HeavyTruck.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
