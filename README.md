@@ -21,11 +21,11 @@ A geo-fence is a virtual perimeter for a real-world geographic area. The concept
 
 Left: Use obstacles as a way to make agents moving along the wall.
 
-Right: Create Nav Mesh map using different kinds of area, then assgin different agents with "Area Mask."
+Right: Create Nav Mesh map using different kinds of area, then assign different agents with different "Area Mask."
 
 ## 02 Customized Robot
 
-### 2.1 Example: Folklift
+### 2.1 Example: Forklift
 Download and import the Prefeb "Forklift" in the Unity Scene. Run the forklift with keyboard control.
 https://assetstore.unity.com/packages/3d/vehicles/controllable-forklift-free-80275
 
@@ -34,12 +34,11 @@ In the scene 2.2, there are four ways of moving wheel-based agents autonomously 
 
 Example 01: Tesla following NavMesh Agent(patrol)  
 
-The NavMesh Agent is set to *Patrol* script, moving between two points.   
-
+The NavMesh Agent is set to *Patrol* script, moving between two points. The Tesla is following NavMesh Agent, by remapping the "Auto User Control" to vector data.
 
 Example 02: Tesla following Target on a path  
 
-Path Creator is an external plug-in that allows you to create a path in Unity, it can either be Bezier path or Vertex path. The path can be 3 dimensional or attached to a 2D plane, you can control the shape of the path just like using control points to control curves in Rhino. It can be open or cloese.  
+Path Creator is an external plug-in that allows you to create a path in Unity, it can either be Bezier path or Vertex path. The path can be 3 dimensional or attached to a 2D plane, you can control the shape of the path just like using control points to control curves in Rhino. It can be open or closed.  
 
 See tutorials on Path Creator: https://www.youtube.com/watch?v=saAQNRSYU9k  
 Path Creator github: https://github.com/SebLague/Path-Creator  
@@ -56,11 +55,12 @@ The simulation needs to calculate the turning radius of the stroller, which can 
 Scene 2.3 is loaded with the asset *Vehicles for Logistic Center*
 https://assetstore.unity.com/packages/3d/vehicles/land/vehicles-for-logistics-center-73990
 
-
-### 2.4 Vertical Shelves
+### 2.4 Elevator (Vertical Shelves)
+Geometries can patrol vertically.
 
 ## 03 Flow Vignette
 
+Example files will come later.
 
 ## System
 Unity version: 2019.2.10f1
