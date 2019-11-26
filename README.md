@@ -58,6 +58,9 @@ https://assetstore.unity.com/packages/3d/vehicles/land/vehicles-for-logistics-ce
 ### 2.4 Elevator (Vertical Shelves)
 Geometries can patrol vertically.
 
+### 2.5 Conveyor 
+The conveyor system here is from the asset *Modular Conveyor Tools*. The suggustion would be to drag and drop the prefabs into the scene and then use transform in the inspector section to properly build up your own conveyor system. Select objects and press v key to align conveyor belts.
+
 ## 03 Flow Vignette
 
 Example files will come later.
