@@ -60,6 +60,7 @@ Geometries can patrol vertically.
 
 ### 2.5 Conveyor 
 The conveyor system here is from the asset *Modular Conveyor Tools*. The suggustion would be to drag and drop the prefabs into the scene and then use transform in the inspector section to properly build up your own conveyor system. Select objects and press v key to align conveyor belts.
+https://assetstore.unity.com/packages/tools/physics/modular-conveyor-tools-120090
 
 ## 03 Flow Vignette
 
